@@ -15,7 +15,7 @@
 <rect width="1280" height="320" fill="url(#glow)"/>
 <rect x="0" y="0" width="7" height="320" fill="#6B7280"/>
 <text x="64" y="118" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="58" font-weight="700" letter-spacing="-1.4" fill="#ffffff">Power Bi Automation</text>
-<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">JavaScript project with 3 JavaScript modules and 1 HTML page: `autologin`,</text>
-<text x="66" y="188" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">`background`, `content`.</text>
+<text x="66" y="158" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">Chrome extension that automates signing in to Power BI and opening</text>
+<text x="66" y="188" font-family="ui-sans-serif,-apple-system,Segoe UI,Inter,Helvetica,Arial,sans-serif" font-size="21" fill="#ffffff" fill-opacity="0.80">dashboards, using a background service worker and content script.</text>
 <g><rect x="66" y="232" rx="13" ry="13" width="105" height="26" fill="#ffffff" fill-opacity="0.22" stroke="#ffffff" stroke-opacity="0.55"/><text x="118" y="250" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#ffffff" fill-opacity="0.92">JavaScript</text></g>
 </svg>
